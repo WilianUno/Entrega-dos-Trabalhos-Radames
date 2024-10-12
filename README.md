@@ -21,3 +21,20 @@ Para continuação da aula do dia 02/08, finalizar a modelagem de casos de uso d
 
 ### Realização até as 18h59min do dia 09 de Agosto de 2024
 
+
+# 5 - Exercicio de Abstração
+### 1 - Eplicação do problema
+Ex
+  Este sistema de atendimento ao paciente, inicia quando o atendnte preenche informações sobre o problema de sáude com identificação do paciente etc.
+### 2 - Casos de Uso
+### 3 - Modelo de Dominio
+### 4 - Expanção de casos de uso
+Ex
+  descrição: O paciente está em atendimento informando seus dados pessoais.
+  Atores: paciente, atendente.
+  
+  Ator                                        |     Sistema
+  1. Paciente chega ao balcão, de atedimento  |    
+  2. O atendente solicita, nome, cpf          |
+  3. O atendente informa o cpf, nome, etc     | 4. Obtem registro de prontuario.
+  5. Informa triagem.                         | 6. Emite etiqueta de identificação.
