@@ -42,3 +42,8 @@ Ex
 ### 5 - Diagrama de atividade ou modelo de atividades.
 Exemplo
 ![image6](https://github.com/user-attachments/assets/d4e27bd5-5960-465f-ad32-fe4599bb2b52)
+
+
+### Diagrama de sequencia do sistema
+Exemplo
+![OIP](https://github.com/user-attachments/assets/1ef13d0e-5c24-4117-8929-2f5e55b01b3c)
