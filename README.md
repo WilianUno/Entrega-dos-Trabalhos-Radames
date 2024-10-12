@@ -38,3 +38,7 @@ Ex
   2. O atendente solicita, nome, cpf          |
   3. O atendente informa o cpf, nome, etc     | 4. Obtem registro de prontuario.
   5. Informa triagem.                         | 6. Emite etiqueta de identificação.
+
+### 5 - Diagrama de atividade ou modelo de atividades.
+Exemplo
+![image6](https://github.com/user-attachments/assets/d4e27bd5-5960-465f-ad32-fe4599bb2b52)
