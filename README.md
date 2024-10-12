@@ -22,8 +22,8 @@ Para continuação da aula do dia 02/08, finalizar a modelagem de casos de uso d
 ### Realização até as 18h59min do dia 09 de Agosto de 2024
 
 
-# 5 - Exercicio de Abstração
-### 1 - Eplicação do problema
+# 5 - Exercicio de Abstração - Estudo de Caso
+### 1 - Estudo de Caso
 Ex
   Este sistema de atendimento ao paciente, inicia quando o atendnte preenche informações sobre o problema de sáude com identificação do paciente etc.
 ### 2 - Casos de Uso
@@ -41,9 +41,16 @@ Ex
 
 ### 5 - Diagrama de atividade ou modelo de atividades.
 Exemplo
+
 ![image6](https://github.com/user-attachments/assets/d4e27bd5-5960-465f-ad32-fe4599bb2b52)
 
 
-### Diagrama de sequencia do sistema
+### 6 - Diagrama de sequencia do sistema
 Exemplo
-![OIP](https://github.com/user-attachments/assets/1ef13d0e-5c24-4117-8929-2f5e55b01b3c)
+
+![OIP](https://github.com/user-attachments/assets/70ca7663-2c7f-4ae5-a251-3101f31a7ab9)
+
+![OIP](https://github.com/user-attachments/assets/cc6c497b-691c-4562-9d55-9208de289605)
+
+### 7 - Diagrama de implementação
+
